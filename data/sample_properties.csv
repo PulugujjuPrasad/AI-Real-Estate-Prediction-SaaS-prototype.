@@ -1,0 +1,9 @@
+Property ID,City,Neighborhood,Property Type,Bedrooms,Bathrooms,Area,Year Built,Lot Size,SalePrice
+101,Denver,West Highlands,Single Family,4,3,2420,1995,0.17,550000
+102,Seattle,Capitol Hill,Condo,2,2,950,2013,0.02,420000
+103,Austin,South Congress,Townhouse,3,2,1250,2008,0.05,425000
+104,Miami,Coral Gables,Single Family,5,4,3300,2000,0.22,980000
+105,San Francisco,Sunset District,Condo,1,1,720,1978,0.01,650000
+106,Chicago,Lincoln Park,Single Family,4,4,2800,1992,0.14,720000
+107,Boston,Back Bay,Condo,2,2,1010,2015,0.01,870000
+108,Atlanta,Buckhead,Single Family,3,3,1900,2005,0.11,610000
